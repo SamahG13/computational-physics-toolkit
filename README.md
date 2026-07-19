@@ -5,6 +5,6 @@ A running collection of computational physics projects, exercises, and mini-impl
 ## Contents
 
 - [ising-model](./ising-model): 2D Ising model simulation using the Metropolis-Hastings MCMC algorithm.
-- - [`monte-carlo`](./monte-carlo) — Monte Carlo integration and variance reduction techniques (importance sampling, control variates, antithetic variables).
+- [`monte-carlo`](./monte-carlo) — Monte Carlo integration and variance reduction techniques (importance sampling, control variates, antithetic variables).
 
 - More projects will be added over time.
